@@ -6,9 +6,12 @@
 <br/>
 
 ### Overall architecture
-
+<p align="center"> <img src="https://github.com/syt06007/Multi-Focus-Image-Fusion/blob/main/imgs/overall_architecture.png" width="90%"> </p>
 
 ### Feature Map Visualization
-
+<p align="center"> <img src="https://github.com/syt06007/Multi-Focus-Image-Fusion/blob/main/imgs/output_table.png" width="90%"> </p>
 
 ### Experiment
+<p align="center"> <img src="https://github.com/syt06007/Multi-Focus-Image-Fusion/blob/main/imgs/output.PNG" width="90%"> </p>
+
+<p align="center"> <img src="https://github.com/syt06007/Multi-Focus-Image-Fusion/blob/main/imgs/output_table.png" width="90%"> </p>
