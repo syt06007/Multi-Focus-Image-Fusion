@@ -10,14 +10,14 @@
 
 <br/>
 <br/>
+
 ### Feature Map Visualization
 <p align="center"> <img src="https://github.com/syt06007/Multi-Focus-Image-Fusion/blob/main/imgs/featuremap.PNG" width="90%"> </p>
 
 <br/>
 <br/>
+
 ### Experiment
 <p align="center"> <img src="https://github.com/syt06007/Multi-Focus-Image-Fusion/blob/main/imgs/output.PNG" width="90%"> </p>
-
-<br/>
 <br/>
 <p align="center"> <img src="https://github.com/syt06007/Multi-Focus-Image-Fusion/blob/main/imgs/output_table.png" width="90%"> </p>
